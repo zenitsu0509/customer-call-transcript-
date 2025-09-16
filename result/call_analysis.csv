@@ -1,0 +1,26 @@
+Transcript,Summary,Sentiment
+"Customer: Hi, I was trying to book a slot yesterday but the payment failed.
+Agent: I'm sorry to hear that. Did you receive any error message?
+Customer: It said 'transaction declined'. I tried twice and got charged once without a booking.
+Agent: I'll look into the charge and help you rebook without extra fees.","Customer experienced payment failure while booking a slot, received a declined transaction message, and was charged extra. Agent apologized and offered to rebook without extra fees.",negative
+"Customer: Hi, I just booked a slot and the process was super smooth!
+Agent: That’s wonderful to hear. Do you need any help with the confirmation?
+Customer: Nope, I already got the email. Just wanted to thank you!
+Agent: You’re most welcome! We’re glad you had a good experience.",Customer had a smooth booking experience and received confirmation email. They expressed gratitude towards the agent. The agent acknowledged their satisfaction.,positive
+"Customer: Hello, I booked a slot yesterday. Just checking if it went through.
+Agent: Sure, can I have your booking ID to confirm?
+Customer: Yes, it’s 12456.
+Agent: Thank you. Yes, your booking is confirmed for tomorrow at 10 AM.
+Customer: Alright, thanks.","Customer checked if their booking was confirmed, provided booking ID 12456, and was informed that it was confirmed for tomorrow at 10 AM.",positive
+"Customer: Hi, I had an issue with payment yesterday but it seems to be resolved now.
+Agent: I’m glad to hear that. Were you able to complete your booking successfully?
+Customer: Yes, I got the confirmation today. Thanks for sorting it out.
+Agent: Happy to help! Enjoy your booking.","Customer had a payment issue that was resolved, and they were able to complete their booking successfully.",positive
+"Customer: Hi, I had an issue with payment yesterday but it seems to be resolved now.
+Agent: I’m glad to hear that. Were you able to complete your booking successfully?
+Customer: Yes, I got the confirmation today. Thanks for sorting it out.
+Agent: Happy to help! Enjoy your booking.","Customer had a payment issue that was resolved, and they were able to complete their booking successfully.",positive
+"Customer: Hi, I had an issue with payment yesterday but it seems to be resolved now.
+Agent: I’m glad to hear that. Were you able to complete your booking successfully?
+Customer: Yes, I got the confirmation today. Thanks for sorting it out.
+Agent: Happy to help! Enjoy your booking.","Customer had a payment issue that was resolved, and they successfully completed their booking.",positive
